@@ -94,7 +94,7 @@ Contributions are welcome! If you have suggestions or improvements, please creat
 
 For any inquiries or mentorship questions, please reach out to:
 
-**Utkarsh Trivedi**  
-Email: utkarshtrivedi12d@gmail.com  
-GitHub: [Utkarsh-1129](https://github.com/Utkarsh-1129)  
+**Rishi Singh**  
+Email: singhrishi024@gmail.com
+GitHub: [Rishi2330](https://github.com/Rishi2330)  
 
